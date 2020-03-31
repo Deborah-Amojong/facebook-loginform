@@ -1,0 +1,18 @@
+body{ background-color: #0e1f56;
+
+}
+.boxed{
+    border: 1px solid black;
+    max-width: 400px;
+    height: 300px;
+}
+.logo{
+    height: 50px;
+    width: 80px;
+    margin: 0 auto;
+}
+.login-form{
+    width: 300px;
+    margin: 0 auto;
+    border-radius: 0px;
+}
